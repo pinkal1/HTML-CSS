@@ -1,3 +1,3 @@
 # HTML-CSS
 
-<img src = “URL"/>
+<img src = “https://github.com/pinkal1/HTML-CSS/blob/master/index.png"/>
